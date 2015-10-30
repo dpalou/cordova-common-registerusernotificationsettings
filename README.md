@@ -1,4 +1,6 @@
 
+Temporary Fork of Cordova RegisterUserNotificationSettings Plugin to hot-fix PGB build problem for Moodle Mobile application.
+
 Cordova RegisterUserNotificationSettings Plugin
 ===============================================
 
